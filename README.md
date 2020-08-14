@@ -1,4 +1,4 @@
-# WeatherStation
+# Information panel with remote weather station - live monitoring of temperature, humidity, barometric pressure, air pollution, wind speeda nd direction
 
 This project will allow user to monitor the weather as well as news
 and  calendar information at the glance. Project will consist of two
